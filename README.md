@@ -11,7 +11,7 @@ This is a simple and modern **To-Do List Application** built using **React JS** 
 - Responsive design using Tailwind CSS for a seamless experience across devices.
 
 
-![captures](1.png)
+![captures](./src/captures/1.png1.png)
 
 
 
